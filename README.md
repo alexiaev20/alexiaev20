@@ -19,6 +19,9 @@
   <img align="center" alt="alexia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="alexia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="alexia-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="alexia-java" height="30" width="40" src="https://cdn.iconicons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png>
+</div>
+  
 </div>
   
   ##
