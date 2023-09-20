@@ -18,8 +18,7 @@
   <img align="center" alt="alexia-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="alexia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="alexia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="alexia-Csharp" height="30" width="40" src="<a href="https://www.flaticon.com/free-icons/java" title="java icons">Java icons created by Freepik - Flaticon</a>
-</div>
+  <img align="center" alt="alexia-Csharp" height="30" width="40" src="https://www.flaticon.com/free-icons/java/devicon/devicon/master/icons/java/java-original.svg">
   
 </div>
   
