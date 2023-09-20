@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Alexia Evelyn
 
--  Estudante front-end
+-  Estudante desenvolvimento java
 -  Pronouns: ela/dela
 
 <div>
