@@ -1,4 +1,4 @@
-##  Olá! Eu sou **Alexia Evelyn** 🌟
+##  Olá! Eu sou **Alexia Melo** 🌟
 
 🎓 **Desenvolvedora Full Stack** <br>
 📍 **Localização:** Recife, Pernambuco - Brasil  
